@@ -4,8 +4,9 @@
 本项目为中国科学技术大学数据科学导论课程实验中QM9数据集的介绍:
 QM9数据集包括了13万有机分子的构成,空间信息及其对应的属性. 它被广泛应用于各类数据驱动的分子属性预测方法的实验和对比.  
 除了原始数据外,本项目整理了一些有效的预处理/特征工程方案,如CM,BOB,BAML等.   
-下载地址:
-链接：https://pan.baidu.com/s/1l2inzj8HfdjG0bLdzIDJwg 密码：kv7w
+下载地址:  
+**百度云** 链接：https://pan.baidu.com/s/1l2inzj8HfdjG0bLdzIDJwg 密码：kv7w  
+**科大校内睿客网** 链接：http://rec2.ustc.edu.cn/share/e86bf620-b7cd-11e8-96c5-f51941958ba9 密码：64f9  
 
 [原始数据集](https://www.nature.com/articles/sdata201422)给出了133,885个分子的相关信息,由于缺失值等原因,本项目给出130,462个分子的信息,具体文件如下:
 
